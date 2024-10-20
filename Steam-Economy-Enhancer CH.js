@@ -22,7 +22,6 @@
 // @homepageURL  https://github.com/Nuklon/Steam-Economy-Enhancer
 // @homepage     https://github.com/Nuklon/Steam-Economy-Enhancer
 // @supportURL   https://github.com/Nuklon/Steam-Economy-Enhancer/issues
-// @downloadURL  https://raw.githubusercontent.com/ADGbehCFI/Steam-Economy-Enhancer-CH/edit/master/Steam-Economy-Enhancer%20CH.js
 // ==/UserScript==
 
 /* disable some eslint rules until the code is cleaned up */
