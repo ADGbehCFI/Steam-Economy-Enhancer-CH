@@ -1,5 +1,5 @@
 7.1.1版安装
-[Install Steam Economy Enhancer](https://github.com/ADGbehCFI/Steam-Economy-Enhancer-CH/blob/master/Steam-Economy-Enhancer%20CH.js)
+[Install Steam Economy Enhancer](https://raw.githubusercontent.com/ADGbehCFI/Steam-Economy-Enhancer-CH/blob/master/Steam-Economy-Enhancer%20CH.js)
 
 【以下是原版介绍】
 
