@@ -1,3 +1,8 @@
+7.1.1版安装
+[Install Steam Economy Enhancer](https://github.com/ADGbehCFI/Steam-Economy-Enhancer-CH/blob/master/Steam-Economy-Enhancer%20CH.js)
+
+【以下是原版介绍】
+
 # Steam Economy Enhancer
 
 A free userscript to enhance your Steam Inventory, Steam Market and Steam Tradeoffers.
